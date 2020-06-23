@@ -1,3 +1,5 @@
+# Мой первый опыт с кроном , также связи с определенным аккаунтом инстаграмма
+
 import requests
 from django.conf import settings
 
